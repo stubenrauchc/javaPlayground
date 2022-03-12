@@ -44,7 +44,7 @@ public class Deck {
         }
         return null;
     }
-    public Card deletedAnyCard(){
+    public Card deleteAnyCard(){
         if(count == 0){
             return null;}
         else{
